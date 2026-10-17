@@ -1,15 +1,66 @@
-# 💫 About Me:
-I'm currently a 3rd year CS-student in RVCE
+<!-- Profile README for github.com/samarth235 -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Samartha%20Sarad%20ka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20IoT%20%E2%80%A2%20Blockchain&descAlignY=57&descSize=16" width="100%" alt="Samartha Saradka profile banner" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=samarth235&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=samarth235&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=samarth235&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">Hey, I'm Samartha 👋</h1>
+
+<p align="center">
+  Computer Science Engineering student at RVCE who enjoys turning real-world problems into practical software.<br/>
+  I build across <strong>AI/ML, full-stack applications, IoT, and blockchain-backed systems</strong>.
+</p>
+
+<p align="center">
+  <a href="https://github.com/samarth235"><img src="https://img.shields.io/badge/GitHub-samarth235-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/samartha-s-257581331/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+</p>
+
+## About me
+
+- 🎓 Computer Science Engineering student at **RV College of Engineering**.
+- 🧠 Interested in applied machine learning, explainable AI, and data-driven systems.
+- 🛠️ I enjoy building end-to-end projects—from models and APIs to usable interfaces and deployment.
+- 🏆 One of the winners in the **Idea Innovation track at the MST Blockchain Hackathon** at BMS College of Engineering.
+- 🌱 Currently exploring better ways to make AI systems useful, explainable, and reliable in real-world workflows.
+
+## Featured projects
+
+| Project | What it does | Stack / concepts |
+|---|---|---|
+| [🛡️ TenderShield Nexus](https://github.com/samarth235/TenderShield) | An explainable tender-assurance platform that combines compliance rules, anomaly detection, entity resolution, relationship graphs, and tamper-evident evidence records to help auditors investigate suspicious procurement patterns. | Python, FastAPI, React, TypeScript, ML, NetworkX, blockchain |
+| [🏥 AI Triage System](https://github.com/samarth235/AI-Triage-System) | A full-stack triage application with a live dashboard, backend APIs, persistent patient data, and real-time updates. | React, Flask, Socket.IO, PostgreSQL, Docker |
+| [🏺 Onboarding Archaeologist](https://github.com/samarth235/Onboarding-Archeologist---Openclaw-) | AI-assisted repository exploration designed to help developers understand unfamiliar codebases and onboard faster. | Python, AI agents, repository analysis |
+| [🧠 DermAI Diagnostics](https://github.com/samarth235/AI-skin-disease-detector) | A computer-vision screening prototype that classifies skin-condition images using a transfer-learning Xception CNN. | Deep learning, CNN, computer vision |
+| [🌫️ AirLens](https://github.com/samarth235/Airlens) | An IoT air-quality monitoring concept that combines environmental sensors with personalized risk insights. | ESP32, sensors, IoT, environmental intelligence |
+| [🔬 Intelligent Material Matching](https://github.com/samarth235/Intelligent-Material-Matching-System-for-Engineering-Applications) | A data-driven system for engineering material selection and alloy recommendations. | Python, machine learning, data analysis |
+
+## Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,html,css,flask,fastapi,tensorflow,opencv,postgres,docker,firebase,git,github,linux&perline=9" alt="Technology icons" />
+</p>
+
+**Also interested in:** scikit-learn, pandas, NumPy, NetworkX, REST APIs, SQL, anomaly detection, graph analysis, and smart-contract workflows.
+
+## GitHub snapshot
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samarth235&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Samarth's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth235&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samarth235&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samarth235&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=samarth235&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <i>Build, test, learn, repeat. Always looking for a meaningful problem to solve.</i><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=samarth235&style=flat&color=2C5364" alt="Profile views" />
+</p>
