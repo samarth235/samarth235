@@ -16,13 +16,12 @@
   <a href="https://www.linkedin.com/in/samartha-s-257581331/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
-## 💫 About Me
+## About Me
 
-- 🎓 3rd-year Computer Science Engineering student at **RVCE**.
-- 🤖 Interested in applied AI/ML, computer vision, and data-driven systems.
-- 🛠️ I like building end-to-end projects—from models and APIs to interfaces and deployment.
-- 🏆 One of the winners in the **Idea Innovation track at the MST Blockchain Hackathon** at BMS College of Engineering.
-- 🌱 Always learning, experimenting, and looking for meaningful real-world problems to solve.
+-  3rd-year Computer Science Engineering student at **RVCE**.
+-  Interested in applied AI/ML, computer vision, and data-driven systems.
+-  I like building end-to-end projects—from models and APIs to interfaces and deployment.
+-  Always learning, experimenting, and looking for meaningful real-world problems to solve.
 
 ## 🚀 Featured Projects
 
